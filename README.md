@@ -1,1 +1,1 @@
-# midecal-chatbot-on-generative-ai
+# midical-chatbot-on-generative-ai
